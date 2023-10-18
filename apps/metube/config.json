@@ -2,7 +2,7 @@
   "$schema": "../schema.json",
   "name": "MeTube",
   "port": 8250,
-  "available": true,
+  "available": false,
   "exposable": true,
   "id": "metube",
   "tipi_version": 1,
